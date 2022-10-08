@@ -43,3 +43,6 @@ const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
                   -5          -4      -3      -2     -1
 var fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 var myBest = fruits.slice(-3, -1); => ["Lemon","Apple]
+
+let arr = [1,2,3,4,5]
+arr.slice(1) => [2,3,4,5] It will remove only first element
